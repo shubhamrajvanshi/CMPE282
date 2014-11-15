@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/shubham/Downloads/mahout-distribution-0.9/mahout-core-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/shubham/Downloads/mahout-distribution-0.9/mahout-integration-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/shubham/Downloads/mahout-distribution-0.9/mahout-math-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/shubham/Downloads/mahout-distribution-0.9/lib/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/shubham/Downloads/mahout-distribution-0.9/lib/guava-16.0.jar"/>
+	<classpathentry kind="lib" path="/home/shubham/Downloads/mahout-distribution-0.9/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/home/shubham/workspace/Lab3/slf4j-1.7.5/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
